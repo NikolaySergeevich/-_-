@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учёба в GB\\Буткемп. Программирование\\уроки\\Урок_6_быстрая_сортировка\\Урок_6_быстрая_сортировка.csproj",
-      "projectName": "Урок_6_быстрая_сортировка",
-      "projectPath": "D:\\Учёба в GB\\Буткемп. Программирование\\уроки\\Урок_6_быстрая_сортировка\\Урок_6_быстрая_сортировка.csproj",
+      "projectUniqueName": "D:\\Учёба в GB\\Буткемп. Программирование\\уроки\\Урок_5\\Урок_5.csproj",
+      "projectName": "Урок_5",
+      "projectPath": "D:\\Учёба в GB\\Буткемп. Программирование\\уроки\\Урок_5\\Урок_5.csproj",
       "packagesPath": "C:\\Users\\mikol\\.nuget\\packages\\",
-      "outputPath": "D:\\Учёба в GB\\Буткемп. Программирование\\уроки\\Урок_6_быстрая_сортировка\\obj\\",
+      "outputPath": "D:\\Учёба в GB\\Буткемп. Программирование\\уроки\\Урок_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikol\\AppData\\Roaming\\NuGet\\NuGet.Config"
