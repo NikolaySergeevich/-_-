@@ -1,4 +1,4 @@
-﻿20.CreateArray(0, 8)
+﻿20.CreateArray(1, 8)
   .Show()
   .SortCounting()
   .Show();

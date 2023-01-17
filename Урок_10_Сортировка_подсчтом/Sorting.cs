@@ -4,11 +4,11 @@ public static class Sorting
   {
     int size = collection.Length;
 
-    int max = collection[0];
+    int max = collection[0]; // следующие 3 строчки находим максимам из массива
     for (int i = 1; i < size; i++)
       if (collection[i] > max) max = collection[i];
 
-    int[] counter = new int[max + 1];
+    int[] counter = new int[max + 1];//создаём новый массив. +1 потому что нужно что бы индекс последний в этом новом массиве был = max
 
     for (int i = 0; i < size; i++)
       counter[collection[i]]++;
